@@ -1,2 +1,2 @@
 # SecurityTest
-Teste de seguraça do código com VERACODE.
+Teste de seguraça de código com VERACODE.
